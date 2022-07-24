@@ -1,0 +1,20 @@
+{
+  "name": "weccetcoin",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "keywords": ["Blockchain", "Bitcoin", "web3", "Ethereum", "weccetcoin"],
+  "author": "Honorable Con",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.6.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
